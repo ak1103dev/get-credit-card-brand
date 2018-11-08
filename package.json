@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:ak1103dev/get-credit-card-brand.git",
   "author": "ak1103dev <ak.apichan1103@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
 }
